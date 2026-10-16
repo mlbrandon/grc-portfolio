@@ -6,7 +6,7 @@ GRC and IT risk projects: risk assessments, policies, and control mapping.
 
 ## Projects
 
-1. **Risk Assessment: Small Accounting Firm (NIST CSF)** - in progress
+1. **Risk Assessment: Apex Financial Partners (NIST CSF)** - register complete, executive summary next
 2. **Security Policy Package** - planned
 3. **Control Mapping and Gap Analysis (CIS Controls)** - planned
 
